@@ -37,6 +37,16 @@ export const projectsData = [
 		info2: '',
 		url: 'https://covid-tracker-c1e38.web.app/',
 		repo: 'https://github.com/plee1295/covid-tracker'
+	},
+	{
+		id: nanoid(),
+		img: 'zoom.jpg',
+		title: 'Zoom Clone',
+		info:
+			'This project was created using Node.js and Heroku for deployment. This application allows users to connect to a live video and chat interface for real-time communication.',
+		info2: '',
+		url: 'https://warm-hamlet-71922.herokuapp.com/',
+		repo: 'https://github.com/plee1295/zoom-clone'
 	}
 ];
 
