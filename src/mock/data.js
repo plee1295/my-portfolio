@@ -47,6 +47,16 @@ export const projectsData = [
 		info2: '',
 		url: 'https://warm-hamlet-71922.herokuapp.com/',
 		repo: 'https://github.com/plee1295/zoom-clone'
+	},
+	{
+		id: nanoid(),
+		img: 'software.jpg',
+		title: 'Scheduling App',
+		info:
+			'GUI-based scheduling desktop application created using Netbeans, Java JDBC, JavaFX, and MySQL. This project was created for C195 - Software II at WGU. It is not deployed or available to be viewed. You can view the source code.',
+		info2: '',
+		url: '',
+		repo: 'https://github.com/plee1295/WGU-C195-Project'
 	}
 ];
 
